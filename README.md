@@ -1,2 +1,4 @@
 # Snake_Game
-Simple snake game to improve programming skills
+#Simple Snake game created as learning practice.
+#Run main.py to start the game.
+#Includes custom images for the game screen (logo.jpg) and victory screen (Victory.png).
